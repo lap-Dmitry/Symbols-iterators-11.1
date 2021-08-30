@@ -1,0 +1,1 @@
+[![Build Status](https://app.travis-ci.com/lap-Dmitry/Symbols-iterators-11.1.svg?branch=master)](https://app.travis-ci.com/lap-Dmitry/Symbols-iterators-11.1)
